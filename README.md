@@ -32,6 +32,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot (6)](https://user-images.githubusercontent.com/119390675/233778498-e718ac68-fae8-49bb-a2f5-5270b7687996.png)
+REACT JS + FIREBASE Is used as Frontend and Backend Respectively
+
+User can Signup,Signin,AddProducts etc are the features in the webapp
+
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
